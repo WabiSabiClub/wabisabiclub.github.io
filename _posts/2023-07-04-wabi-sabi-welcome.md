@@ -1,8 +1,6 @@
 ---
 title: Welcome to Wabi Sabi Game Dev Club
 date: 2023-07-04 00:00:00 -500
-categories: #none
-tags: #none
 ---
 # Welcome to Wabi Sabi Game Dev Club
 
