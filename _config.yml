@@ -20,13 +20,13 @@ timezone:
 
 title: Wabi Sabi Game Dev Club # the main title
 
-tagline: An open initiative of micro communities to foster game development for social change # it will display as the sub-title
+tagline: An open initiative of micro communities to foster game development for social fun # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  An open initiative of micro communities to foster game development for social change
+  An open initiative of micro communities to foster game development for social fun
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://wabisabiclub.github.io"
+url: ""
 
 github:
   username: github_username # change to your github username
@@ -76,7 +76,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://ibb.co/6Jgn6CG
 
 # boolean type, the global switch for TOC in posts.
 toc: true
