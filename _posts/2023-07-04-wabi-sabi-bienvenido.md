@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Bienvenido a Wabi Sabi Game Dev Club
 date: 2023-07-04 00:00:00 -500
 --- 
