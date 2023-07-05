@@ -4,8 +4,8 @@
 
 @mixin dark-scheme {
   /* Framework color */
-  --main-bg: rgb(27, 27, 30);
-  --mask-bg: rgb(68, 69, 70);
+  --main-bg: rgb(19, 9, 34);
+  --mask-bg: rgb(48, 32, 67);
   --main-border-color: rgb(44, 45, 45);
 
   /* Common color */
@@ -13,15 +13,15 @@
   --text-muted-color: rgb(107, 116, 124);
   --heading-color: #cccccc;
   --blockquote-border-color: rgb(66, 66, 66);
-  --blockquote-text-color: rgb(117, 117, 117);
-  --link-color: rgb(138, 180, 248);
+  --blockquote-text-color: rgb(255, 255, 255);
+  --link-color: rgb(138, 233, 248);
   --link-underline-color: rgb(82, 108, 150);
   --button-bg: rgb(39, 40, 43);
   --btn-border-color: rgb(63, 65, 68);
   --btn-backtotop-color: var(--text-color);
   --btn-backtotop-border-color: var(--btn-border-color);
   --btn-box-shadow: var(--main-bg);
-  --card-header-bg: rgb(48, 48, 48);
+  --card-header-bg: rgb(105, 29, 133);
   --label-color: rgb(108, 117, 125);
   --checkbox-color: rgb(118, 120, 121);
   --checkbox-checked-color: var(--link-color);
@@ -34,8 +34,8 @@
   );
 
   /* Sidebar */
-  --sidebar-bg: radial-gradient(circle, #242424 0%, #1d1f27 100%);
-  --sidebar-muted-color: #6d6c6b;
+  --sidebar-bg: radial-gradient(circle, #2a0e41 0%, #131a35 100%);
+  --sidebar-muted-color: #6d6b6d;
   --sidebar-active-color: rgb(255, 255, 255, 0.95);
   --sidebar-hover-bg: rgb(54, 54, 54, 0.33);
   --sidebar-btn-bg: rgb(84, 83, 83, 0.3);
@@ -67,8 +67,8 @@
   --btn-share-color: #6c757d;
   --btn-share-hover-color: #bfc1ca;
   --relate-post-date: var(--text-muted-color);
-  --card-bg: #1e1e1e;
-  --card-hovor-bg: #464d51;
+  --card-bg: #2c153e;
+  --card-hovor-bg: #5b3692;
   --card-shadow: rgb(21, 21, 21, 0.72) 0 6px 18px 0,
     rgb(137, 135, 135, 0.24) 0 0 0 1px;
   --kbd-wrap-color: #6a6a6a;
@@ -91,9 +91,9 @@
   --dash-color: rgb(63, 65, 68);
 
   /* categories */
-  --categories-border: rgb(64, 66, 69, 0.5);
-  --categories-hover-bg: rgb(73, 75, 76);
-  --categories-icon-hover-color: white;
+  --categories-border: rgba(40, 22, 63, 0.5);
+  --categories-hover-bg: rgb(57, 27, 77);
+  --categories-icon-hover-color: rgb(255, 255, 255);
 
   /* archives */
   --timeline-node-bg: rgb(150, 152, 156);

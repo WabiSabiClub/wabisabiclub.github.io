@@ -1,10 +1,11 @@
 ---
 title: Bienvenido a Wabi Sabi Game Dev Club
 date: 2023-07-04 00:00:00 -500
-categories: español
+categories: [Español, Documentos]
 tags: [gamedev,docs]
+pin: true
 image:
-    path: /assets/img/headers/welcomeheader.webp
+    path: /assets/img/headers/bienvenidaheader.webp
 --- 
 
 Bienvenido al sitio web de documentación Wabi Sabi Game Dev Club, el hogar de una iniciativa de microcomunidades dedicada a fomentar el desarrollo de juegos como una poderosa herramienta para la diversión social. Creemos que los juegos tienen el potencial de crear un impacto significativo en la sociedad, y nuestra misión es reunir a individuos que comparten esta creencia, permitiéndoles desarrollar juegos juntos y utilizar esto como una herramienta para el cambio social.
