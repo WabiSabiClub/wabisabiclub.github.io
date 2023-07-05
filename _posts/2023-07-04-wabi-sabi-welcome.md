@@ -10,4 +10,5 @@ Our initiative is built upon the idea that collective action is more impactful t
 # Support this project
 This is an open source and open education initiative
 
-You can contribute or sponsor it at https://github.com/WabiSabiClub/wabisabiclub.github.io
+You can contribute or sponsor it at [Github](https://github.com/WabiSabiClub/wabisabiclub.github.io)
+
