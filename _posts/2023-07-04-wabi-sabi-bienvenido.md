@@ -61,3 +61,39 @@ Este es un proyecto de código abierto y educación abierta
 Puedes contribuir a el en [Github](https://github.com/WabiSabiClub/)
 
 [![Contribuir a este contenido](https://img.shields.io/badge/Contribuir%20a%20este%20contenido-%236A0DAD?style=for-the-badge&logo=github)](https://www.github.com/wabisabiclub/wabisabiclub.github.io)
+
+<style>
+  .patreon-widget {
+    background-color: #f96854;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    padding: 20px;
+    text-align: center;
+  }
+
+  .patreon-widget h2 {
+    margin: 0 0 10px;
+  }
+
+  .patreon-widget p {
+    margin: 0 0 20px;
+  }
+
+  .patreon-widget a {
+    display: inline-block;
+    background-color: #fff;
+    color: #f96854;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+  }
+
+  .patreon-widget a:hover {
+    background-color: #f96854;
+    color: #fff;
+  }
+</style>
+
+
