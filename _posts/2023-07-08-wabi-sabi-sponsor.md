@@ -10,7 +10,7 @@ image:
 
 <iframe id='kofiframe' src='https://ko-fi.com/wabisabiclub/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#5D3FD3;' height='640' title='wabisabiclub'></iframe>
 
-<a href="https://www.patreon.com/bePatron?u=96298749" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js%22%3E</script>
+<a href="https://www.patreon.com/bePatron?u=96298749" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js%22%3E"></script>
 
 ### Realiza una donación de Bitcoin
 
