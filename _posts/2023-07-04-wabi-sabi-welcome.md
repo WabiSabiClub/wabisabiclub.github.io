@@ -35,14 +35,30 @@ These are some activities for which we will be sharing all the necessary materia
 
 By actively engaging in these activities and initiatives, each Wabi Sabi Game Dev Club can cultivate a strong and supportive community, fostering collaboration, creativity, and personal growth among its members.
 
-## Support this project
-This is an open source and open education initiative
-
-You can contribute or sponsor it at [Github](https://github.com/WabiSabiClub/)
-
-[![Contribute to this content](https://img.shields.io/badge/Contribute%20to%20this%20content-%236A0DAD?style=for-the-badge&logo=github)](https://www.github.com/wabisabiclub/wabisabiclub.github.io) [![Sponsor on Ko-fi](https://img.shields.io/badge/Sponsor%20on%20Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/wabisabiclub) [![Sponsor on Patreon](https://img.shields.io/badge/Sponsor%20on%20Patreon-FF424D?style=for-the-badge&logo=patreon)](https://www.patreon.com/wabisabigamedevclub)
+## Sponsor and support this project
 
 
+ [![Sponsor on Ko-fi](https://img.shields.io/badge/Sponsor%20on%20Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/wabisabiclub) [![Sponsor on Patreon](https://img.shields.io/badge/Sponsor%20on%20Patreon-FF424D?style=for-the-badge&logo=patreon)](https://www.patreon.com/wabisabigamedevclub)
+
+### Make a Bitcoin donation
+```
+bc1qfghzre7s5w2p5pynwkgqu5ms5mga6959rrf3gp
+```
+[![Bitcoin QR code](https://www.bitcoinqrcodemaker.com/api/?style=bitcoin&address=bc1qfghzre7s5w2p5pynwkgqu5ms5mga6959rrf3gp){:height="150" width="150"}](https://www.bitcoinqrcodemaker.com)
+
+### Make an Ethereum donation
+```
+0x0461B0042CaCE73C0fC57a4CaBc3322a656fD37E
+```
+[![Ethereum QR code](https://www.bitcoinqrcodemaker.com/api/?style=ethereum&address=0x0461B0042CaCE73C0fC57a4CaBc3322a656fD37E){:height="150" width="150"}](https://www.bitcoinqrcodemaker.com)
+
+## Contribute to this project
+
+**This is an open source and open education initiative**
+
+You can contribute to it at [Github](https://github.com/WabiSabiClub/)
+
+[![Contribute to this content](https://img.shields.io/badge/Contribute%20to%20this%20content-%236A0DAD?style=for-the-badge&logo=github)](https://www.github.com/wabisabiclub/wabisabiclub.github.io)
 
 
 

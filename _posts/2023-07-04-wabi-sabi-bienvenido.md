@@ -41,9 +41,23 @@ Al participar activamente en estas actividades e iniciativas, cada Wabi Sabi Gam
 
 
 ## Support this project
+
+ [![Patrocinar en Ko-fi](https://img.shields.io/badge/Patrocinar%20en%20Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/wabisabiclub) [![Patrocinar en Patreon](https://img.shields.io/badge/Patrocinar%20en%20Patreon-FF424D?style=for-the-badge&logo=patreon)](https://www.patreon.com/wabisabigamedevclub)
+
+### Realiza una donación de Bitcoin
+```
+bc1qfghzre7s5w2p5pynwkgqu5ms5mga6959rrf3gp
+```
+[![Bitcoin QR code](https://www.bitcoinqrcodemaker.com/api/?style=bitcoin&address=bc1qfghzre7s5w2p5pynwkgqu5ms5mga6959rrf3gp){:height="150" width="150"}](https://www.bitcoinqrcodemaker.com)
+
+### Realiza una donación en Ethereum
+```
+0x0461B0042CaCE73C0fC57a4CaBc3322a656fD37E
+```
+[![Ethereum QR code](https://www.bitcoinqrcodemaker.com/api/?style=ethereum&address=0x0461B0042CaCE73C0fC57a4CaBc3322a656fD37E){:height="150" width="150"}](https://www.bitcoinqrcodemaker.com)
+
 Este es un proyecto de código abierto y educación abierta
 
-Puedes contribuir o patrocinarlo en [Github](https://github.com/WabiSabiClub/)
+Puedes contribuir a el en [Github](https://github.com/WabiSabiClub/)
 
-[![Contribuir a este contenido](https://img.shields.io/badge/Contribuir%20a%20este%20contenido-%236A0DAD?style=for-the-badge&logo=github)](https://www.github.com/wabisabiclub/wabisabiclub.github.io) [![Patrocinar en Ko-fi](https://img.shields.io/badge/Patrocinar%20en%20Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/wabisabiclub) [![Patrocinar en Patreon](https://img.shields.io/badge/Patrocinar%20en%20Patreon-FF424D?style=for-the-badge&logo=patreon)](https://www.patreon.com/wabisabigamedevclub)
-
+[![Contribuir a este contenido](https://img.shields.io/badge/Contribuir%20a%20este%20contenido-%236A0DAD?style=for-the-badge&logo=github)](https://www.github.com/wabisabiclub/wabisabiclub.github.io)
