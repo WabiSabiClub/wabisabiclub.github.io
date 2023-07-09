@@ -2,7 +2,7 @@
 layout: post
 title: Sponsor It
 date: 2023-07-03 00:00:00 -500
-tags: [docs]
+tags: [docs,funding]
 pin: true
 image:
   path: /assets/img/headers/sponsorheader.webp

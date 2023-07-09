@@ -9,9 +9,7 @@ image:
     path: /assets/img/headers/bienvenidaheader.webp
 --- 
 ## Como nació Wabi Sabi Game Dev Club
-Creé el Wabi Sabi Game Dev Club como una iniciativa abierta para desarrollar microcomunidades dedicadas a fomentar el desarrollo de videojuegos como una poderosa herramienta para la diversión social. Como desarrollador de videojuegos independiente en un país en vías de desarrollo, he sido testigo de primera mano de las necesidades surgidas por la falta de iniciativas comunitarias que sean abiertas, divertidas y diseñadas para ser realmente inclusivas con personas de todos los niveles de experiencia y trayectorias. El objetivo principal del Wabi Sabi Game Dev Club es empoderarte para que establezcas tu propio club de desarrollo de videojuegos Wabi Sabi. Con la guía y las herramientas proporcionadas en esta plataforma, independientemente de tu experiencia o bagaje, creo que cada entusiasta de los videojuegos tiene el poder en sus manos para crear una hermosa comunidad en su entorno inmediato. La misión de este proyecto es reunir a personas que comparten la creencia de que la acción colectiva y positiva en torno a la creación de videojuegos puede ser beneficiosa tanto para el bienestar personal como para la mejora de las comunidades que les rodean.
 
-Podría estar equivocado, pero creo que la verdadera esencia del desarrollo de videojuegos radica en el proceso en sí, más que en el producto final. Por eso, la filosofía de este proyecto es abrazar el arte de la imperfección y la belleza de lo efímero, tal como se enseña en la filosofía japonesa del Wabi Sabi. Este proyecto tiene como objetivo promover la modularidad y flexibilidad, asegurando que el conocimiento compartido en esta plataforma pueda adaptarse fácilmente a diversos entornos, especialmente aquellos en países con necesidades específicas. Al priorizar la modularidad, buscamos proporcionar información y recursos que se puedan personalizar y aplicar de manera efectiva en diversos contextos. Nuestra meta es empoderar a las personas y comunidades adaptando el conocimiento a sus requisitos específicos, fomentando en última instancia el crecimiento dentro de cada microcomunidad.
 
 ## Actividades para tu propio Wabi Sabi Game Dev Club
 Estas son algunas actividades para las cuales compartiremos todos los materiales y conocimientos necesarios para que puedas organizar tu propio club. Si tienes ideas que te gustaría compartir, no dudes en contribuir a este sitio web.
@@ -34,66 +32,14 @@ Estas son algunas actividades para las cuales compartiremos todos los materiales
 
 Al participar activamente en estas actividades e iniciativas, cada Wabi Sabi Game Dev Club puede cultivar una comunidad sólida y de apoyo, fomentando la colaboración, la creatividad y el crecimiento personal entre sus miembros.
 
+## Apoya este proyecto
+
+ [![Patrocinar en Ko-fi](https://img.shields.io/badge/Patrocinar%20en%20Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/wabisabiclub) [![Patrocinar en Patreon](https://img.shields.io/badge/Patrocinar%20en%20Patreon-FF424D?style=for-the-badge&logo=patreon)](https://www.patreon.com/wabisabigamedevclub) [![Crypto Donation](https://img.shields.io/badge/Crypto%20Donation-%F0%9F%92%B3-%236A0DAD?style=for-the-badge)](https://wabisabiclub.github.io/posts/wabi-sabi-sponsor/#make-a-bitcoin-donation--realiza-una-donaci%C3%B3n-de-bitcoin)
 
 
-
-
-
-
-## Support this project
-
- [![Patrocinar en Ko-fi](https://img.shields.io/badge/Patrocinar%20en%20Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/wabisabiclub) [![Patrocinar en Patreon](https://img.shields.io/badge/Patrocinar%20en%20Patreon-FF424D?style=for-the-badge&logo=patreon)](https://www.patreon.com/wabisabigamedevclub)
-
-### Realiza una donación de Bitcoin
-```
-bc1qfghzre7s5w2p5pynwkgqu5ms5mga6959rrf3gp
-```
-[![Bitcoin QR code](https://www.bitcoinqrcodemaker.com/api/?style=bitcoin&address=bc1qfghzre7s5w2p5pynwkgqu5ms5mga6959rrf3gp){:height="150" width="150"}](https://www.bitcoinqrcodemaker.com)
-
-### Realiza una donación en Ethereum
-```
-0x0461B0042CaCE73C0fC57a4CaBc3322a656fD37E
-```
-[![Ethereum QR code](https://www.bitcoinqrcodemaker.com/api/?style=ethereum&address=0x0461B0042CaCE73C0fC57a4CaBc3322a656fD37E){:height="150" width="150"}](https://www.bitcoinqrcodemaker.com)
 
 Este es un proyecto de código abierto y educación abierta
 
 Puedes contribuir a el en [Github](https://github.com/WabiSabiClub/)
 
 [![Contribuir a este contenido](https://img.shields.io/badge/Contribuir%20a%20este%20contenido-%236A0DAD?style=for-the-badge&logo=github)](https://www.github.com/wabisabiclub/wabisabiclub.github.io)
-
-<style>
-  .patreon-widget {
-    background-color: #f96854;
-    color: #fff;
-    font-family: Arial, sans-serif;
-    font-size: 16px;
-    padding: 20px;
-    text-align: center;
-  }
-
-  .patreon-widget h2 {
-    margin: 0 0 10px;
-  }
-
-  .patreon-widget p {
-    margin: 0 0 20px;
-  }
-
-  .patreon-widget a {
-    display: inline-block;
-    background-color: #fff;
-    color: #f96854;
-    padding: 10px 20px;
-    text-decoration: none;
-    border-radius: 5px;
-    transition: background-color 0.3s;
-  }
-
-  .patreon-widget a:hover {
-    background-color: #f96854;
-    color: #fff;
-  }
-</style>
-
-
