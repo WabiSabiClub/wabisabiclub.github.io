@@ -8,9 +8,6 @@ pin: true
 image:
     path: /assets/img/headers/bienvenidaheader.webp
 --- 
-## Como nació Wabi Sabi Game Dev Club
-
-
 ## Actividades para tu propio Wabi Sabi Game Dev Club
 Estas son algunas actividades para las cuales compartiremos todos los materiales y conocimientos necesarios para que puedas organizar tu propio club. Si tienes ideas que te gustaría compartir, no dudes en contribuir a este sitio web.
 
